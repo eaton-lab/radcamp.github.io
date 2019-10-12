@@ -32,6 +32,13 @@ cloud infrastructure which you will use to perform the assembly and analysis.
 
 [RADCamp groups for assembling and analysing the real data](PartII-Groups.txt)
 
+
+
+### Follow this link to open instructions in slide form
+[Slide instructions to start empirical assemblies](https://eaton-lab.org/slides/radcamped)
+
+### optional instructions
+
 * Form your groups and brief introductions
 * Open a browser tab and go the ip address indicated in the file above. The
 password for your cloud instance will be written on the whiteboard.
