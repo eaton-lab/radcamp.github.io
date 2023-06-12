@@ -31,9 +31,11 @@ break? Look at runtimes: How long did they take to run?
 ## ipyrad API and Jupyter Notebooks
 Lead: Deren (30')
 
-* Talk about branching
-* ipyrad API mode
-* Intro to running jupyter notebooks
+[Slides](https://eaton-lab.org/slides/2023-RADcamp-NYC/#/)  
+* Introduce ipyrad analysis API
+* Methods for filtering data
+* Methods for imputing missing data
+* A range of utilities: tree inference, multi-species coalescent tree inference, PCA, structure, etc.
 
 ## ipyrad analysis API - Phylogenetic trees with RAxML
 Lead: Isaac (30')
